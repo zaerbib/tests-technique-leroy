@@ -25,9 +25,9 @@
 Please keep track (notes) of how you analysed and fixed the issues to help us 
 understand the steps during the interview
 ```
-
-1. Adding review does not work
-2. Using the delete button works but elements comes back when i refresh the page 
+1. First, Eclipse IDE could not launch application. Due to a incompatiblity version of springframework and jdk
+2. After upgrading version of springframeword (from 1.4.1.RALEASE to 2.2.6.RALEASE), app lanched normally
+3. When the head version is lanched with the first version of springframeword (2.2.6.RELEASE), no problem is detected
 
 ## New Feature
 ```
