@@ -1,11 +1,6 @@
 Manifest-Version: 1.0
-Built-By: Utilisateur
-Build-Jdk: 16.0.2
+Build-Jdk-Spec: 16
 Implementation-Title: ADEO LEROY MERLIN - CDP Recruitment Test
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: adeo.leroymerlin.cdp
-Implementation-Vendor: Pivotal Software, Inc.
-Implementation-URL: http://projects.spring.io/spring-boot/test-technique
- -joel/
 Created-By: Maven Integration for Eclipse
 
