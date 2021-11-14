@@ -1,0 +1,9 @@
+spring.jpa:
+  hibernate.ddl-auto: ""
+spring:
+  jpa:
+    show-sql: true
+
+logging:
+  level:
+    org.springframework.web: trace
