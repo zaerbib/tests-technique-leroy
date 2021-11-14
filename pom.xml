@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>adeo.leroymerlin.cdp</groupId>
-	<artifactId>java</artifactId>
+	<artifactId>test-technique-joel</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -13,7 +13,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.2.6.RELEASE</version>
+		<version>1.4.1.RELEASE</version>
 		<relativePath/>
 	</parent>
 
